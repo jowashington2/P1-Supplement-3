@@ -27,4 +27,4 @@ Unit tests are included for all functions and can be run using `unittest`.
 
 ## Instructions
 - Clone the repository.
-- Run the tests using `python -m unittest discover tests`.
+- Run the tests using `Visual Studio Code`.
